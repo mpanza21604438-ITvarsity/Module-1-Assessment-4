@@ -1,0 +1,10 @@
+table{
+    background-color: aqua;
+}
+th{
+    color:white;
+    font-family:sans-serif;
+    border-width:medium;
+    background-color:green;
+    font-weight:600;
+}
